@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="utf-8">
+    
+    <link rel="stylesheet" href="styles.css">
+    <!--header-->
+<header>
+        <div class="logo">
+ <img src="cibra.jpeg" alt="cobra">
+ <head>INSTINCT</head>
+ <nav>
+    <ul>
+       <li> <a href="home.html">Home</a></li>
+        <li><a href="#contact">Contact  us</a></li>
+       <li> <a href="#about-us">About us</a></li>
+    </ul>
+ </nav>
+
+
+</header>
+ <!--BODY-->
+ <body>
+   <H1>Follow your instinct's</H1>
+   <P>Join us on this journey with Asim.</P>
+   <div>
+    <canvas id="canv" width="500" height="200"></canvas>
+   </div>
+
+ </body>
+    <!--footer-->
+    <div class="d"></div>
+<div>
+    <footer>
+        <p>2023© rights reserved</p>
+    </footer>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
